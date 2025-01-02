@@ -23,10 +23,10 @@ Entre outros...
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Pretendo criar um ebook com informações acerca das 7 funções arquivísticas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ainda estou no processo de uso e experimentação das Inteligências Artificiais, por enquanto estou no modo exploradora e logo mais volto para deixar as minhas impressões.
 ```
 
 ### Exemplos e Insigths
@@ -36,6 +36,12 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
+
+[Canva](https://www.canva.com/pt_br/).
+[ChatGPT](https://chatgpt.com/auth/login).
+[Microsoft Copilot](https://copilot.microsoft.com/chats/Jwm43MJ6S9QU9oMG41NvN)
+[GitHub Copilot](https://github.com/features/copilot).
+[Gamma](https://gamma.app/).
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
