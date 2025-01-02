@@ -1,32 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
+Olá, sou a May!
+Este é o meu primeiro projeto aqui no GitHub e também no Bootcamp da DIO!
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando as AI Generativas com a DIO!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto pretendo utilizar as estratégias aprendidas no Bootcamp da DIO e aprender como utilizar da melhor maneira possível o potencial das AI Generativas.
+Este projeto tem como objetivo explorar como a Inteligência Artificial Generativa pode revolucionar e otimizar o dia a dia do usuário, tanto para fins de trabalho como para estudo. Utilizando IAs generativas, o projeto demonstrará como a criação automatizada de código, correção de erros, otimização de performance, e automatização de tarefas repetitivas pode aumentar a produtividade e eficiência dos desenvolvedores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT: Geração de texto para o conteúdo do e-book;
+Microsoft Copilot: Criação de imagens realistas e artísticas;
+Gamma: Design e organização do e-book.
+Canva: Criação de imagens e edições;
+Entre outros...
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
