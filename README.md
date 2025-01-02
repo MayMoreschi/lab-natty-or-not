@@ -37,10 +37,10 @@ Ainda estou no processo de uso e experimentação das Inteligências Artificiais
 
 ## Links Interessantes
 
-[Canva](https://www.canva.com/pt_br/).
-[ChatGPT](https://chatgpt.com/auth/login).
-[Microsoft Copilot](https://copilot.microsoft.com/chats/Jwm43MJ6S9QU9oMG41NvN)
-[GitHub Copilot](https://github.com/features/copilot).
+[Canva](https://www.canva.com/pt_br/). /
+[ChatGPT](https://chatgpt.com/auth/login). /
+[Microsoft Copilot](https://copilot.microsoft.com/chats/Jwm43MJ6S9QU9oMG41NvN) /
+[GitHub Copilot](https://github.com/features/copilot). /
 [Gamma](https://gamma.app/).
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
