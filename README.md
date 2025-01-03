@@ -15,15 +15,15 @@ Este projeto tem como objetivo explorar como a Inteligência Artificial Generati
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Geração de texto para o conteúdo do e-book;
 Microsoft Copilot: Criação de imagens realistas e artísticas;
-Gamma: Design e organização do e-book.
 Canva: Criação de imagens e edições;
-Entre outros...
+Microsoft Powerpoint: Criação de Slides para páginas de e-book;
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A partir das instruções passo a passo para a criação de um ebook digital, realizei a entrada de prompts (tanto de "text to image' quanto "text to text") nas plataformas de IA conforme a necessidade do tema escolhido.
 
 ## 🚀 Resultados
-Pretendo criar um ebook com informações acerca das 7 funções arquivísticas.
+Criação de um ebook de 18 páginas com informações acerca das 7 funções arquivísticas com exemplos práticos e conclusão acerca da importância da área na era digital atual.
 
 ## 💭 Reflexão (Opcional)
 Ainda estou no processo de uso e experimentação das Inteligências Artificiais, por enquanto estou no modo exploradora e logo mais volto para deixar as minhas impressões.
