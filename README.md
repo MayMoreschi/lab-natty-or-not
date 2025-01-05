@@ -31,7 +31,7 @@ Ainda estou no processo de uso e experimentação das Inteligências Artificiais
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK]([/exemplos/E-BOOK.md](https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Sete%20Funcoes%20Arquivisticas.pdf))
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
@@ -42,6 +42,23 @@ Ainda estou no processo de uso e experimentação das Inteligências Artificiais
 [Microsoft Copilot](https://copilot.microsoft.com/chats/Jwm43MJ6S9QU9oMG41NvN) /
 [GitHub Copilot](https://github.com/features/copilot). /
 [Gamma](https://gamma.app/).
+
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/MayMoreschi">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Mayara Moreschi](https://github.com/MayMoreschi)
+
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
