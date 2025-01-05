@@ -1,7 +1,6 @@
 Olá, sou a May!
 Este é o meu primeiro projeto aqui no GitHub e também no Bootcamp da DIO!
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
@@ -27,6 +26,19 @@ Criação de um ebook de 18 páginas com informações acerca das 7 funções ar
 
 ## 💭 Reflexão (Opcional)
 Ainda estou no processo de uso e experimentação das Inteligências Artificiais, por enquanto estou no modo exploradora e logo mais volto para deixar as minhas impressões.
+
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/MayMoreschi">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+
+<br/><br/>
+<p>
+
 ```
 
 ### Exemplos e Insigths
@@ -43,17 +55,6 @@ Ainda estou no processo de uso e experimentação das Inteligências Artificiais
 [GitHub Copilot](https://github.com/features/copilot). /
 [Gamma](https://gamma.app/).
 
-## 👨‍💻 Expert
-
-<p>
-    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/MayMoreschi">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-
-<br/><br/>
-<p>
 
 ---
 
