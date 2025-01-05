@@ -27,23 +27,11 @@ Criação de um ebook de 18 páginas com informações acerca das 7 funções ar
 ## 💭 Reflexão (Opcional)
 Ainda estou no processo de uso e experimentação das Inteligências Artificiais, por enquanto estou no modo exploradora e logo mais volto para deixar as minhas impressões.
 
-## 👨‍💻 Expert
-
-<p>
-    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/MayMoreschi">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-
-<br/><br/>
-<p>
-
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK]([/exemplos/E-BOOK.md](https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Sete%20Funcoes%20Arquivisticas.pdf))
+- [E-BOOK](https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Sete%20Funcoes%20Arquivisticas.pdf)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
@@ -57,10 +45,19 @@ Ainda estou no processo de uso e experimentação das Inteligências Artificiais
 
 
 ---
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/MayMoreschi">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+
+<br/><br/>
+<p>
+
+---
 
 ⌨️ com 💜 por [Mayara Moreschi](https://github.com/MayMoreschi)
 
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
