@@ -1,7 +1,6 @@
 Olá, sou a May!
 Este é o meu primeiro projeto aqui no GitHub e também no Bootcamp da DIO!
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-
+  
 ### Template
 
 ```markdown
@@ -9,7 +8,9 @@ Este é o meu primeiro projeto aqui no GitHub e também no Bootcamp da DIO!
 
 ## 📒 Descrição
 Nesse projeto pretendo utilizar as estratégias aprendidas no Bootcamp da DIO e aprender como utilizar da melhor maneira possível o potencial das AI Generativas.
-Este projeto tem como objetivo explorar como a Inteligência Artificial Generativa pode revolucionar e otimizar o dia a dia do usuário, tanto para fins de trabalho como para estudo. Utilizando IAs generativas, o projeto demonstrará como a criação automatizada de código, correção de erros, otimização de performance, e automatização de tarefas repetitivas pode aumentar a produtividade e eficiência dos desenvolvedores.
+Este projeto tem como objetivo explorar como a Inteligência Artificial Generativa pode revolucionar e otimizar o dia a dia do usuário, tanto para fins de trabalho como para estudo.
+Utilizando IAs generativas, o projeto demonstrará como a criação automatizada de código, correção de erros, otimização de performance, e automatização de tarefas repetitivas pode
+aumentar a produtividade e eficiência dos desenvolvedores.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT: Geração de texto para o conteúdo do e-book;
@@ -19,13 +20,16 @@ Microsoft Powerpoint: Criação de Slides para páginas de e-book;
 
 
 ## 🧐 Processo de Criação
-A partir das instruções passo a passo para a criação de um ebook digital, realizei a entrada de prompts (tanto de "text to image' quanto "text to text") nas plataformas de IA conforme a necessidade do tema escolhido.
+A partir das instruções passo a passo para a criação de um ebook digital, realizei a entrada de prompts (tanto de "text to image' quanto "text to text")
+nas plataformas de IA conforme a necessidade do tema escolhido.
 
 ## 🚀 Resultados
-Criação de um ebook de 18 páginas com informações acerca das 7 funções arquivísticas com exemplos práticos e conclusão acerca da importância da área na era digital atual.
+Criação de um ebook de 18 páginas com informações acerca das 7 funções arquivísticas com exemplos práticos e conclusão acerca da importância da área
+na era digital atual.
 
 ## 💭 Reflexão (Opcional)
-Ainda estou no processo de uso e experimentação das Inteligências Artificiais, por enquanto estou no modo exploradora e logo mais volto para deixar as minhas impressões.
+Ainda estou no processo de uso e experimentação das Inteligências Artificiais, por enquanto estou no modo exploradora e logo mais volto para deixar as
+minhas impressões.
 
 ```
 
