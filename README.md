@@ -37,12 +37,12 @@ logo mais volto para deixar as minhas impressões.
 ### Exemplos e Insigths
 
 - [E-BOOK](https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Sete%20Funcoes%20Arquivisticas.pdf)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Podcast](https://github.com/MayMoreschi/prompts-for-podcast-generate-by-ia)
+- [Planilha Inteligente](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
-[Canva](https://www.canva.com/pt_br/). /
+[Canva - Dream Labs](https://www.canva.com/pt_br/). /
 [ChatGPT](https://chatgpt.com/auth/login). /
 [Microsoft Copilot](https://copilot.microsoft.com/chats/Jwm43MJ6S9QU9oMG41NvN) /
 [GitHub Copilot](https://github.com/features/copilot). /
